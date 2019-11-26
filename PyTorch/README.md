@@ -2,7 +2,7 @@
 
 ## Notebooks
 
-- CNN_Tutorial
+- [CNN_Tutorial](https://github.com/rmorgan10/Tutorials/blob/master/PyTorch/CNN_Tutorial.ipynb)
 
 ## Environment Setup
 
